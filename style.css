@@ -17,6 +17,11 @@ body{
     background-color:red;
 }
 
+.blue{
+    background-color:blue;
+}
+
+
 #hero-image{
     background-image:url(image/sky.jpg);
     background-size:cover;
