@@ -21,6 +21,13 @@ body{
     background-color:blue;
 }
 
+.orange{
+    background-color:orange;
+}
+
+h1 {
+font-family: 'Libre Franklin', sans-serif;
+}
 
 #hero-image{
     background-image:url(image/sky.jpg);
