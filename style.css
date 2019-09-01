@@ -5,6 +5,7 @@ html{
 }
 
 body{
+    padding-top:60px;
     width:100%;
 }
 
@@ -30,9 +31,7 @@ h1 {
 font-family: 'Libre Franklin', sans-serif;
 }
 
-nav {
-    position:fixed;
-}
+
 
 #hero-image{
     background-image:url(image/sky.jpg);
